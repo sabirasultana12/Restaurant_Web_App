@@ -163,6 +163,9 @@ html, body {
 .restaurant-name {
   font-size: 36px;
   color: #ffab00; /* Vibrant Indian yellow */
+  border-bottom:#090909;
+  font-style:italic ;
+
 }
 
 .menu-description {
